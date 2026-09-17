@@ -1,74 +1,74 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ankita Shanbhag👋</h1>
+<h3 align="center">AI/ML Enthusiast · Full-Stack Developer · B.Tech IT Student</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B132B,100:1C2541&height=180&section=header&text=ANKITA%20SHANBHAG&fontSize=45&fontColor=FFB300&fontAlignY=38&desc=AI%2FML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=62&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+<p align="center">
+I build full-stack apps and explore AI/ML — currently deep in Generative AI and AI agents.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFB300&background=00000000&center=true&vCenter=true&width=780&lines=B.Tech+IT+Student+%40+Vidyalankar+Institute;Building+AI%2FML+%2B+GenAI+powered+apps;Open+to+AI%2FML+%26+Full-Stack+roles" alt="Typing SVG" />
-
-<br/>
-
-![Location](https://img.shields.io/badge/Navi_Mumbai%2C_India-0B132B?style=flat-square&color=FFB300)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB300?style=flat-square&logo=linkedin&logoColor=0B132B)](https://www.linkedin.com/in/ankitashanbhag12/)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-FFB300?style=flat-square&logo=github&logoColor=0B132B)](https://github.com/ankita01209)
-
-</div>
-
----
-
-### `$ whoami`
-
-Detail-oriented IT undergraduate focused on **AI/ML, Generative AI, and full-stack development**. I like turning real-world problems — student dropout prediction, travel planning — into clean, working systems. Currently building hands-on projects with **LangChain, Gemini, Django, and React** while sharpening backend and system-design skills.
+<p align="center">
+  <a href="https://linkedin.com/in/ankitashanbhag12">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ankitashanbhag25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### `$ ls tech-stack/`
+### 🚀 What I'm doing
 
-![Skills](https://skillicons.dev/icons?i=python,js,c,java,react,nextjs,django,nodejs,tailwind,pytorch,tensorflow,sklearn,postgres,mysql,sqlite,git,github,figma)
-
----
-
-### `$ ls projects/`
-
-<details open>
-<summary><b>🩺 EarlyWarn</b> — AI-powered student dropout-risk platform</summary>
-<br>
-Predicts student dropout risk and surfaces explainable intervention insights for educators.
-<br><br>
-<code>Python · Scikit-learn · SHAP · Django · PostgreSQL · React</code>
-</details>
-
-<details>
-<summary><b>✈️ YatraSetu</b> — AI-powered tourism & ticketing platform</summary>
-<br>
-Chatbot and itinerary-planning assistant for travel and ticket booking.
-<br><br>
-<code>Python · Django · React · PostgreSQL · Gemini · Google ADK</code>
-</details>
-
-<details>
-<summary><b>📧 SMTP/POP3 Email System</b> — client-server email built from scratch</summary>
-<br>
-Implements SMTP and POP3 protocols over raw sockets for sending, receiving, and managing email.
-<br><br>
-<code>Python · Sockets · SQLite · Tkinter</code>
-</details>
+- 🔭 Building full-stack applications with **React, Django & Python**
+- 🤖 Exploring **Machine Learning, Deep Learning & GenAI Agents**
+- 🌱 Strengthening my **DSA & backend fundamentals**
+- 🤝 Open to collaborating on **AI/ML, GenAI & open-source** projects
+- ⚡ Fun fact: I do my best work right before a deadline 😅
 
 ---
 
-### `$ ./stats.sh`
+### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankita01209&show_icons=true&theme=dark&hide_border=true&bg_color=0B132B&title_color=FFB300&icon_color=FFB300&text_color=8D99AE&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita01209&layout=compact&theme=dark&hide_border=true&bg_color=0B132B&title_color=FFB300&text_color=8D99AE" width="38%" />
+**Frontend**
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-</div>
+**Backend**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+**Data & ML**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Database & Tools**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-*Open to AI/ML, GenAI, and Full-Stack internships.*
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=ankita01209&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankita01209&theme=onedark&hide_border=true&layout=compact" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C2541,100:0B132B&height=80&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ankita01209&theme=onedark&hide_border=true" />
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankita01209&color=blueviolet&style=flat" />
+</p>
