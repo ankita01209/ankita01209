@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ankita 👋</h1>
+<h1 align="center">Hi, I'm Ankita Shanbhag👋</h1>
 <h3 align="center">AI/ML Enthusiast · Full-Stack Developer · B.Tech IT Student</h3>
 
 <p align="center">
