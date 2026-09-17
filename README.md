@@ -2,10 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B132B,100:1C2541&height=180&section=header&text=ANKITA%20SHANBHAG&fontSize=45&fontColor=FFB300&fontAlignY=38&desc=AI%2FML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=62&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFB300&background=0B132B&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+Vidyalankar+Institute+of+Technology;Building+AI%2FML+%2B+GenAI+powered+apps;Open+to+AI%2FML+%26+Full-Stack+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFB300&background=00000000&center=true&vCenter=true&width=780&lines=B.Tech+IT+Student+%40+Vidyalankar+Institute;Building+AI%2FML+%2B+GenAI+powered+apps;Open+to+AI%2FML+%26+Full-Stack+roles" alt="Typing SVG" />
 
-![Location](https://img.shields.io/badge/Navi_Mumbai%2C_India-0B132B?style=flat-square&color=FFB300)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB300?style=flat-square&logo=linkedin&logoColor=0B132B)](https://www.linkedin.com/in/ankitashanbhag12/)
+<br/>
+
+![Location](https://img.shields.io/badge/Navi_Mumbai%2C_India-0B132B?style=flat-square&color=FFB300)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB300?style=flat-square&logo=linkedin&logoColor=0B132B)](https://www.linkedin.com/in/ankitashanbhag12/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-FFB300?style=flat-square&logo=github&logoColor=0B132B)](https://github.com/ankita01209)
 
 </div>
@@ -56,8 +58,8 @@ Implements SMTP and POP3 protocols over raw sockets for sending, receiving, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankita01209&show_icons=true&theme=dark&hide_border=true&bg_color=0B132B&title_color=FFB300&icon_color=FFB300&text_color=8D99AE" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita01209&layout=compact&theme=dark&hide_border=true&bg_color=0B132B&title_color=FFB300&text_color=8D99AE" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankita01209&show_icons=true&theme=dark&hide_border=true&bg_color=0B132B&title_color=FFB300&icon_color=FFB300&text_color=8D99AE&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita01209&layout=compact&theme=dark&hide_border=true&bg_color=0B132B&title_color=FFB300&text_color=8D99AE" width="38%" />
 
 </div>
 
